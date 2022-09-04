@@ -1,0 +1,42 @@
+#Armor | Armure
+NethriteHelmetDurability: "1000"
+NethriteHelmetProtection: "10"
+NetheriteHelmetId: ""
+NetheriteHelmetMeta: ""
+
+NethriteChestPlateDurability: "1000"
+NethriteChestPlateProtection: "10"
+NetheriteChestPlateId: ""
+NetheriteChestPlateMeta: ""
+
+NethriteLeggingsDurability: "1000"
+NethriteLeggingsProtection: "10"
+NetheriteLeggingsId: ""
+NetheriteLeggingsMeta: ""
+
+NethriteBootsDurability: "1000"
+NethriteBootsProtection: "10"
+NetheriteBootsId: ""
+NetheriteBootsMeta: ""
+
+#Tool | Outils
+NetheriteSwordDamage: "9"
+NetheriteSwordDurability: "1000"
+NetheriteSwordId: ""
+NetheriteSwordMeta: ""
+
+NetheritePickaxeDurability: "1000"
+NetheritePickaxeId: ""
+NetheritePickaxeMeta: ""
+
+NetheriteAxeDurability: "1000"
+NetheriteAxeId: ""
+NetheriteAxeMeta: ""
+
+NetheriteShovelDurability: "1000"
+NetheriteShovelId: ""
+NetheriteShovelMeta: ""
+
+NetheriteHoueDurability: "1000"
+NetheriteHoueId: ""
+NetheriteHoueMeta: ""
